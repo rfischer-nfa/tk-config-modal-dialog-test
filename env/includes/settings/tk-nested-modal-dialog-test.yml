@@ -1,0 +1,5 @@
+includes:
+    - ../app_locations.yml
+
+settings.tk-nested-modal-dialog-test:
+    location: "@apps.tk-nested-modal-dialog-test.location"

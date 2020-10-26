@@ -193,6 +193,10 @@ apps.tk-mari-projectmanager.location:
   type: app_store
   version: v1.2.2
 
+apps.tk-nested-modal-dialog-test.location:
+  type: dev
+  path: "$SHOTGUN_REPOS_ROOT/tk-nested-modal-dialog-test"
+
 ################################################################################
 # reference all of the common frameworks
 frameworks: '@frameworks'

@@ -20,6 +20,7 @@ includes:
 - ./tk-shotgun-launchfolder.yml
 - ./tk-shotgun-launchpublish.yml
 - ./tk-shotgun-launchvredreview.yml
+- ./tk-nested-modal-dialog-test.yml
 
 ################################################################################
 
@@ -33,6 +34,7 @@ settings.tk-shotgun.asset:
     tk-multi-screeningroom: "@settings.tk-multi-screeningroom.rv"
     tk-shotgun-folders: "@settings.tk-shotgun-folders"
     tk-shotgun-launchfolder: "@settings.tk-shotgun-launchfolder"
+    tk-nested-modal-dialog-test: "@settings.tk-nested-modal-dialog-test"
   location: "@engines.tk-shotgun.location"
 
 # asset_step
