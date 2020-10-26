@@ -196,7 +196,7 @@ apps.tk-mari-projectmanager.location:
 apps.tk-nested-modal-dialog-test.location:
   type: git
   path: git@github.com:rfischer-nfa/tk-nested-modal-dialog-test.git
-  version: 1.0.0
+  version: v1.0.0
 
 ################################################################################
 # reference all of the common frameworks
